@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chp.jpg",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/chp.jpg"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check.jpg",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/check.jpg"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/board2e.jpg",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/board2e.jpg"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check1.jpg",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/check1.jpg"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chess.jpg",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/chess.jpg"
+    }
+]

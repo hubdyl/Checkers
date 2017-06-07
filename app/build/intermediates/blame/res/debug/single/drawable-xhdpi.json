@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-xhdpi/rd.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-xhdpi/rd.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-xhdpi/wte.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-xhdpi/wte.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-xhdpi/blk.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-xhdpi/blk.png"
+    }
+]

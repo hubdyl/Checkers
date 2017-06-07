@@ -1,0 +1,4 @@
+#Wed May 24 00:53:19 CEST 2017
+base.0=/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ec1904b58f35e1b5f45374ecd7614df1a304f690
+renamed.0=classes.dex
+file.0=/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ec1904b58f35e1b5f45374ecd7614df1a304f690/classes.dex

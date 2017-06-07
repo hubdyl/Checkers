@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/layout/lay2.xml",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/layout/lay2.xml"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/layout/activity_main.xml"
+    }
+]

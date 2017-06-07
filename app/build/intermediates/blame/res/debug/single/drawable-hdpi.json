@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/blank.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/blank.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/blk.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/blk.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/blackpiece.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/blackpiece.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/wte.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/wte.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/whitepiece.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/whitepiece.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/whitecrowned.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/whitecrowned.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/blackcrowned.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/blackcrowned.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hubert/AndroidStudioProjects/Checkers/app/build/intermediates/res/merged/debug/drawable-hdpi/rd.png",
+        "source": "/home/hubert/AndroidStudioProjects/Checkers/app/src/main/res/drawable-hdpi/rd.png"
+    }
+]
